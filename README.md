@@ -31,6 +31,8 @@ Veri setindeki sınıf dengesizliği nedeniyle SMOTE (Synthetic Minority Over-sa
 * Karışıklık Matrisi (Confusion Matrix)
 * Sınıflandırma Raporu (Classification Report)
 
+  Kaggle Linki: https://www.kaggle.com/code/sudenazkaranfil/apps-dataset
+
 📊 Görselleştirmeler
 
 Proje kapsamında verilerin keşfi için çeşitli görselleştirmeler yapılmıştır:
