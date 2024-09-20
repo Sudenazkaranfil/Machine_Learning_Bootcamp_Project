@@ -41,4 +41,4 @@ Proje kapsamında verilerin keşfi için çeşitli görselleştirmeler yapılmı
 * Puan dağılımı histogramı
 * Korelasyon matrisinin heatmap'i
 
-  Kaggle Linki: https://www.kaggle.com/code/sudenazkaranfil/apps-dataset
+  Kaggle Linki: https://www.kaggle.com/code/sudenazkaranfil/dataset-analysis-code
